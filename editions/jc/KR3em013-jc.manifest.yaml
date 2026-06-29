@@ -1,0 +1,1033 @@
+canonical_identifier: bkk:krp/KR3em013/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em013/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 異授眼科
+  identifiers:
+    krp: KR3em013
+  tags:
+    kr-categories: KR3em
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em013.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em013_000-jc.yaml, hash: 'sha256:5c6ba4c72bab26f8efce0850b28a93e7815f223f7faa307db0b456219f677246'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em013_000-jc.markers.yaml, hash: 'sha256:8d7cb27054c026618fe29efdd79ebd4fd3704f6f07710c2ea05582d27d88e0ce'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 634
+  label: 明目論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d3.h1s1
+    span:
+    - body
+    - 634
+    - 814
+  label: 看眼訣圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d4.h1s1
+    span:
+    - body
+    - 814
+    - 878
+  label: 眼病歌訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d5.h1s1
+    span:
+    - body
+    - 878
+    - 930
+  label: 冷眼歌訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d6.h1s1
+    span:
+    - body
+    - 930
+    - 982
+  label: 熱眼歌訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d7.h1s1
+    span:
+    - body
+    - 982
+    - 1337
+  label: 藥性光明賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d8.h1s1
+    span:
+    - body
+    - 1337
+    - 1386
+  label: 五經虛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d9.h1s1
+    span:
+    - body
+    - 1386
+    - 1712
+  label: 瀉五經火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d10.h1s1
+    span:
+    - body
+    - 1712
+    - 1895
+  label: 眼目虛實冷熱論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d11.h1s1
+    span:
+    - body
+    - 1895
+    - 2088
+  label: 點藥藥性
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d12.h1s1
+    span:
+    - body
+    - 2088
+    - 2526
+  label: 炮煉法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d13.h1s1
+    span:
+    - body
+    - 2526
+    - 2544
+  label: 男女禁忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d14.h1s1
+    span:
+    - body
+    - 2544
+    - 3022
+  label: 看眼法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d15.h1s1
+    span:
+    - body
+    - 3022
+    - 3295
+  label: 演藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d16.h1s1
+    span:
+    - body
+    - 3295
+    - 3392
+  label: 點藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d17.h1s1
+    span:
+    - body
+    - 3392
+    - 3516
+  label: 製藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d18.h1s1
+    span:
+    - body
+    - 3516
+    - 3600
+  label: 煎膏法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d19.h1s1
+    span:
+    - body
+    - 3600
+    - 3687
+  label: 研藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d20.h1s1
+    span:
+    - body
+    - 3687
+    - 3789
+  label: 合藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d21.h1s1
+    span:
+    - body
+    - 3789
+    - 3874
+  label: 用藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d22.h1s1
+    span:
+    - body
+    - 3874
+    - 3976
+  label: 服藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d23.h1s1
+    span:
+    - body
+    - 3976
+    - 4165
+  label: 禁忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d24.h1s1
+    span:
+    - body
+    - 4165
+    - 4562
+  label: 主藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d25.h1s1
+    span:
+    - body
+    - 4562
+    - 4640
+  label: 輔藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d26.h1s1
+    span:
+    - body
+    - 4640
+    - 5956
+  label: 加減方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d27.h1s1
+    span:
+    - body
+    - 5956
+    - 6851
+  label: 按五輪治療捷法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d28.h1s1
+    span:
+    - body
+    - 6851
+    - 7185
+  label: 四季加減煎藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29.h1s1
+    span:
+    - body
+    - 7185
+    - 15455
+  label: 眼有七十二症醫治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d2
+    span:
+    - body
+    - 7193
+    - 7368
+  label: 第一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d3
+    span:
+    - body
+    - 7368
+    - 7476
+  label: 第二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d4
+    span:
+    - body
+    - 7476
+    - 7562
+  label: 第三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d5
+    span:
+    - body
+    - 7562
+    - 7734
+  label: 第四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d6
+    span:
+    - body
+    - 7734
+    - 7876
+  label: 第五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d7
+    span:
+    - body
+    - 7876
+    - 8043
+  label: 第六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d8
+    span:
+    - body
+    - 8043
+    - 8244
+  label: 第七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d9
+    span:
+    - body
+    - 8244
+    - 8326
+  label: 第八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d10
+    span:
+    - body
+    - 8326
+    - 8524
+  label: 第九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d11
+    span:
+    - body
+    - 8524
+    - 8617
+  label: 第十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d12
+    span:
+    - body
+    - 8617
+    - 8771
+  label: 第十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d13
+    span:
+    - body
+    - 8771
+    - 8907
+  label: 第十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d14
+    span:
+    - body
+    - 8907
+    - 9043
+  label: 第十三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d15
+    span:
+    - body
+    - 9043
+    - 9230
+  label: 第十四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d16
+    span:
+    - body
+    - 9230
+    - 9309
+  label: 第十五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d17
+    span:
+    - body
+    - 9309
+    - 9423
+  label: 第十六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d18
+    span:
+    - body
+    - 9423
+    - 9656
+  label: 第十七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d19
+    span:
+    - body
+    - 9656
+    - 9803
+  label: 第十八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d20
+    span:
+    - body
+    - 9803
+    - 9885
+  label: 第十九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d21
+    span:
+    - body
+    - 9885
+    - 9966
+  label: 第二十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d22
+    span:
+    - body
+    - 9966
+    - 10050
+  label: 第二十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d23
+    span:
+    - body
+    - 10050
+    - 10200
+  label: 第二十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d24
+    span:
+    - body
+    - 10200
+    - 10306
+  label: 第二十三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d25
+    span:
+    - body
+    - 10306
+    - 10396
+  label: 第二十四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d26
+    span:
+    - body
+    - 10396
+    - 10539
+  label: 第二十五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d27
+    span:
+    - body
+    - 10539
+    - 10683
+  label: 第二十六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d28
+    span:
+    - body
+    - 10683
+    - 10894
+  label: 第二十七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d29
+    span:
+    - body
+    - 10894
+    - 10973
+  label: 第二十八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d30
+    span:
+    - body
+    - 10973
+    - 11020
+  label: 第二十九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d31
+    span:
+    - body
+    - 11020
+    - 11102
+  label: 第三十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d32
+    span:
+    - body
+    - 11102
+    - 11215
+  label: 第三十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d33
+    span:
+    - body
+    - 11215
+    - 11336
+  label: 第三十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d34
+    span:
+    - body
+    - 11336
+    - 11464
+  label: 第三十三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d35
+    span:
+    - body
+    - 11464
+    - 11590
+  label: 第三十四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d36
+    span:
+    - body
+    - 11590
+    - 11662
+  label: 第三十五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d37
+    span:
+    - body
+    - 11662
+    - 11775
+  label: 第三十六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d38
+    span:
+    - body
+    - 11775
+    - 11836
+  label: 第三十七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d39
+    span:
+    - body
+    - 11836
+    - 11911
+  label: 第三十八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d40
+    span:
+    - body
+    - 11911
+    - 11972
+  label: 第三十九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d41
+    span:
+    - body
+    - 11972
+    - 12048
+  label: 第四十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d42
+    span:
+    - body
+    - 12048
+    - 12122
+  label: 第四十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d43
+    span:
+    - body
+    - 12122
+    - 12236
+  label: 第四十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d44
+    span:
+    - body
+    - 12236
+    - 12275
+  label: 第四十三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d45
+    span:
+    - body
+    - 12275
+    - 12360
+  label: 第四十四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d46
+    span:
+    - body
+    - 12360
+    - 12474
+  label: 第四十五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d47
+    span:
+    - body
+    - 12474
+    - 12610
+  label: 第四十六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d48
+    span:
+    - body
+    - 12610
+    - 12664
+  label: 第四十七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d49
+    span:
+    - body
+    - 12664
+    - 12792
+  label: 第四十八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d50
+    span:
+    - body
+    - 12792
+    - 12919
+  label: 第四十九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d51
+    span:
+    - body
+    - 12919
+    - 13024
+  label: 第五十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d52
+    span:
+    - body
+    - 13024
+    - 13097
+  label: 第五十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d53
+    span:
+    - body
+    - 13097
+    - 13148
+  label: 第五十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d54
+    span:
+    - body
+    - 13148
+    - 13250
+  label: 第五十三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d55
+    span:
+    - body
+    - 13250
+    - 13420
+  label: 第五十四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d56
+    span:
+    - body
+    - 13420
+    - 13691
+  label: 第五十五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d57
+    span:
+    - body
+    - 13691
+    - 13741
+  label: 第五十六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d58
+    span:
+    - body
+    - 13741
+    - 13887
+  label: 第五十七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d59
+    span:
+    - body
+    - 13887
+    - 14021
+  label: 第五十八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d60
+    span:
+    - body
+    - 14021
+    - 14081
+  label: 第五十九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d61
+    span:
+    - body
+    - 14081
+    - 14125
+  label: 第六十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d62
+    span:
+    - body
+    - 14125
+    - 14204
+  label: 第六十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d63
+    span:
+    - body
+    - 14204
+    - 14363
+  label: 第六十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d64
+    span:
+    - body
+    - 14363
+    - 14442
+  label: 第六十三問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d65
+    span:
+    - body
+    - 14442
+    - 14493
+  label: 第六十四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d66
+    span:
+    - body
+    - 14493
+    - 14600
+  label: 第六十五問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d67
+    span:
+    - body
+    - 14600
+    - 14726
+  label: 第六十六問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d68
+    span:
+    - body
+    - 14726
+    - 14777
+  label: 第六十七問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d69
+    span:
+    - body
+    - 14777
+    - 14911
+  label: 第六十八問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d70
+    span:
+    - body
+    - 14911
+    - 14987
+  label: 第六十九問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d71
+    span:
+    - body
+    - 14987
+    - 15078
+  label: 第七十問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d72
+    span:
+    - body
+    - 15078
+    - 15189
+  label: 第七十一問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d29d73
+    span:
+    - body
+    - 15189
+    - 15455
+  label: 第七十二問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em013_jc_000-d30.h1s1
+    span:
+    - body
+    - 15455
+    - 15820
+  label: 經驗奇方
+  type: section
+  level: 1
+hash: sha256:faefe2ccc8d138aec57d8f841509de98a3f46c746fa58c5bbc66e8d880a59e38
