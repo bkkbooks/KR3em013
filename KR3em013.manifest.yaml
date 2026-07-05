@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em013_000.yaml, hash: 'sha256:bdcc1768a1c089d3862653ef236dbf352d9c1acf21fce76b82ba312186b363e1'}
+  - {seq: 0, filename: KR3em013_000.yaml, hash: 'sha256:5c6ba4c72bab26f8efce0850b28a93e7815f223f7faa307db0b456219f677246'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em013_000.markers.yaml, hash: 'sha256:b2ecdb26d3415d59fce7f360ee5c5dd95d74fa7bebca9deb7826c65f85d78f8e'}
+  - {seq: 0, role: markers, filename: assets/KR3em013_000.markers.yaml, hash: 'sha256:636ffb2f239d72bc100bffcbb0bc81198f848d49f044d9ce3cc4f79d1ed6299f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1030,7 +1030,4 @@ table_of_contents:
   label: 經驗奇方
   type: section
   level: 1
-hash: sha256:0adc107763327c2daa5175d0b84208e13b36edba68ecaf44a053b8daca6da6f4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ec0602f300d62c90a8430f07122d55f432b1f28e7a93ee98021d2dc35f2d7f18
