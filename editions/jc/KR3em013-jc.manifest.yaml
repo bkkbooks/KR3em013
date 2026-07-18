@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em013_000-jc.yaml, hash: 'sha256:5c6ba4c72bab26f8efce0850b28a93e7815f223f7faa307db0b456219f677246'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em013_000-jc.markers.yaml, hash: 'sha256:8d7cb27054c026618fe29efdd79ebd4fd3704f6f07710c2ea05582d27d88e0ce'}
+  - {seq: 0, role: markers, filename: assets/KR3em013_000-jc.markers.yaml, hash: 'sha256:630c52d2a026c43717d37bebe5935e7ab29b03bb190e5b500ca39c4546a8e4ae'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1030,4 +1030,4 @@ table_of_contents:
   label: 經驗奇方
   type: section
   level: 1
-hash: sha256:faefe2ccc8d138aec57d8f841509de98a3f46c746fa58c5bbc66e8d880a59e38
+hash: sha256:72944bcf8bee7b6d6e4ded7759807d121d14d794d98f1694676cb14582129bbf
